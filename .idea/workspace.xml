@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbd0bab3-0dd5-437b-b2a7-dbc84cb3fc18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fkD9HeaNpPIeeNkQP6hKBJdnQ1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbd0bab3-0dd5-437b-b2a7-dbc84cb3fc18" name="Default Changelist" comment="" />
+      <created>1596753043616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596753043616</updated>
+      <workItem from="1596753044897" duration="1621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="257" key="#start" timestamp="1596753154336">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="648" y="257" key="#start/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596753154336" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1596754387379">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387379" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1596754387378">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387378" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1596754387377">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387377" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1596754387379">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387379" />
+    <state x="695" y="447" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596754487521">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="695" y="447" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754487521" />
+  </component>
+</project>
