@@ -6,11 +6,27 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd0bab3-0dd5-437b-b2a7-dbc84cb3fc18" name="Default Changelist" comment="" />
+    <list default="true" id="fbd0bab3-0dd5-437b-b2a7-dbc84cb3fc18" name="Default Changelist" comment="initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +45,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -60,8 +82,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596753043616</updated>
-      <workItem from="1596753044897" duration="1621000" />
+      <workItem from="1596753044897" duration="2822000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1596754782530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596754782530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,27 +108,35 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="648" y="257" key="#start" timestamp="1596753154336">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="648" y="257" key="#start/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596753154336" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1596754387379">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1596756126644">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387379" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1596754387378">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126644" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1596756126642">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387378" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1596754387377">
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126642" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1596756126642">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387377" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1596754387379">
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126642" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1596756126643">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754387379" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126643" />
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2" timestamp="1596754787984">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754787984" />
     <state x="695" y="447" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596754487521">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
