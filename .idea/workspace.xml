@@ -24,16 +24,45 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd0bab3-0dd5-437b-b2a7-dbc84cb3fc18" name="Default Changelist" comment="initial">
+    <list default="true" id="fbd0bab3-0dd5-437b-b2a7-dbc84cb3fc18" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/App/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/postActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/postActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Postform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/postReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/postReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1fkD9HeaNpPIeeNkQP6hKBJdnQ1" />
   <component name="ProjectViewState">
@@ -44,14 +73,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/PostEdit" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/containers" />
+      <recent name="$PROJECT_DIR$/src/Containers/App" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/PostEdit" />
+      <recent name="$PROJECT_DIR$/src/containers/Posts" />
+      <recent name="$PROJECT_DIR$/src/containers/PostsList" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
   <component name="RunManager">
@@ -83,6 +129,13 @@
       <option name="presentableId" value="Default" />
       <updated>1596753043616</updated>
       <workItem from="1596753044897" duration="2822000" />
+      <workItem from="1596759852098" duration="163000" />
+      <workItem from="1596847678668" duration="984000" />
+      <workItem from="1596848691451" duration="972000" />
+      <workItem from="1596849691683" duration="219000" />
+      <workItem from="1596849925606" duration="5715000" />
+      <workItem from="1596887806266" duration="875000" />
+      <workItem from="1596891597706" duration="24758000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1596754782530</created>
@@ -91,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596754782530</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1596759970341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596759970341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,36 +167,58 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="713" y="300" key="#ESLint" timestamp="1596849293776">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="713" y="300" key="#ESLint/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596849293776" />
+    <state x="716" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596988276710">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="716" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596988276710" />
     <state x="648" y="257" key="#start" timestamp="1596753154336">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="648" y="257" key="#start/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596753154336" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1596756126644">
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom" timestamp="1596992619713">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126644" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1596756126642">
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596992619713" />
+    <state width="1899" height="253" key="GridCell.Tab.0.center" timestamp="1596992619712">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126642" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1596756126642">
+    <state width="1899" height="253" key="GridCell.Tab.0.center/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596992619712" />
+    <state width="1899" height="253" key="GridCell.Tab.0.left" timestamp="1596992619712">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126642" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1596756126643">
+    <state width="1899" height="253" key="GridCell.Tab.0.left/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596992619712" />
+    <state width="1899" height="253" key="GridCell.Tab.0.right" timestamp="1596992619713">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596756126643" />
-    <state x="560" y="291" key="Vcs.Push.Dialog.v2" timestamp="1596754787984">
+    <state width="1899" height="253" key="GridCell.Tab.0.right/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596992619713" />
+    <state x="469" y="190" key="SettingsEditor" timestamp="1596849812501">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="291" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596754787984" />
+    <state x="469" y="190" key="SettingsEditor/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596849812501" />
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2" timestamp="1596759973982">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596759973982" />
+    <state x="764" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596848497558">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="764" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1596848497558" />
+    <state x="661" y="313" width="598" height="476" key="find.popup" timestamp="1597005363879">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="661" y="313" width="598" height="476" key="find.popup/0.23.1920.1057/-1050.23.1050.1657@0.23.1920.1057" timestamp="1597005363879" />
     <state x="695" y="447" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596754487521">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>

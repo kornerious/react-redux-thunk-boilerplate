@@ -1,0 +1,13 @@
+.posts-list{
+  .list-item{
+    margin: 10px 0;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .btns-block{
+    display: flex;
+    justify-content: space-between;
+  }
+}
